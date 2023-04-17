@@ -1,4 +1,4 @@
-package app.new
+package app.event-sourcing
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration

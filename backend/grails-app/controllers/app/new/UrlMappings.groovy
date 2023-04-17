@@ -1,4 +1,4 @@
-package app.new
+package app.event-sourcing
 
 class UrlMappings {
 
